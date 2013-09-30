@@ -1,0 +1,21 @@
+Javascript Snake
+
+_____________________________________________________________________________
+
+
+About
+-------
+This is a simple snake clone which uses only the Jquery and Jquery PlugIn libraries. Eat the
+food to increase your score and increase the size of the snake
+
+
+Files
+-------
+snake.html - This file contains the basic HTML code. It mostly just creates the basic body tag
+snake.js - This file contains all the logic to create and run the game. The basic game loop uses setInterval
+README - This file
+lib/jquery-2.0.3.min.js - JQuery Library
+lib/jquery.hotkeys.js - JQuery Hotkey Plugin, which is used to bind the arrow keys for the game
+
+
+This game is public domain and can be copied by anyone.
